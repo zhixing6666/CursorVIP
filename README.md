@@ -16,3 +16,6 @@
 ## 📞 加QQ群交流 cursor无限续杯免魔法6群  1060043685
 
 
+![QQ群](cursor_qun.png)
+
+![claude4](cursor1.png)
